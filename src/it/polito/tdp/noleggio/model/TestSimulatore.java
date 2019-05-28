@@ -6,7 +6,7 @@ public class TestSimulatore {
 		
 		Simulatore sim = new Simulatore();
 		
-		sim.init(10);
+		sim.init(13);
 		
 		sim.run();
 		
